@@ -10,15 +10,17 @@ Challenges or difficulties that were encountered, and how they were overcome, ar
 
 ### Analysis of Outcomes Based on Launch Date
 ![Line graph depicting Theater Campaign Outcomes based on Month of Lauch](https://i.postimg.cc/RFDCS7bB/Theater-Outcomes-vs-Launch.png)
-After referencing [Microsoft's YEAR function guide](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us), I created a pivot table to filter for the performance and count of campaigns across months. It was not intuitive to determine the settings so that the column for 'Successful' campaigns was sorted first. After creating a line chart from the table, it was possible to determine that successful campaigns are highest from May - July. On the other hand, failed and canceled campaigns remained consistent throughout the year as neither line demonstrated outliers from the established range. 
+After referencing [Microsoft's YEAR function guide](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us), I created a pivot table to filter for the performance and count of campaigns across months. It isn't readily intuitive to determine the configuration so that the column for 'Successful' campaigns was sorted first. After creating a line chart from the table, it was possible to determine that successful campaigns are highest from May - July. On the other hand, failed and canceled campaigns remained consistent throughout the year as neither line demonstrated outliers from the established range. 
 
 
 ### Analysis of Outcomes Based on Goals
 ![Line graph depicting Outcomes Based on Launch Date for Successful, Failed, and Canceled Campaigns](https://i.postimg.cc/G22hn7KK/Outcomes-vs-Goals.png)
-The lines tracking sum of percentage successful and sum of percentage failed visualize as reflections of each other. 
+After setting the monetery goal amounts to the parameters dictated for the assignment, I used the [COUNTIFS function](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us) to retrieve the information needed to determine what percentage of the campaigns were successful, failed, or canceled based on their goal. 
+![Table that depicts Goal Brackets in rows and Sum of Percentage of Campaigns that were Successful, Failed or Canceled in columns](https://postimg.cc/9DcBXxBX).
+Then, I created a pivot chart that tracked the sum of each percentage compared to the goal bracket. The chart visualizes that the relationship between the sum of the percentage of successful and failed campaigns is a reflections of each other. 
 
 ### Challenges and Difficulties Encountered
-My biggest challenge was in ensuring I had fully reset the original dataset of manipulating it several times to extract different tables and charts. The amount of columns tracked in the dataset were difficult to review visually as they were not possibly to resize to fit within the window. Careful review had to be enacted to ensure no column remained in a filtered view before proceeding on to next stage of the assignment. 
+My biggest challenge was in ensuring I had fully reset the original dataset after having manipulating it in different to extract several tables and charts. The amount of columns tracked in the dataset were difficult to review visually as they were not possibly to resize to fit within the window. Careful review had to be enacted to ensure no column remained in a filtered view before proceeding on to next stage of the assignment. 
 
 ## Results: 
 
