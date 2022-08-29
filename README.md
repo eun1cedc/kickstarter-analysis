@@ -10,7 +10,7 @@ Challenges or difficulties that were encountered, and how they were overcome, ar
 
 ### Analysis of Outcomes Based on Launch Date
 ![Line graph depicting Theater Campaign Outcomes based on Month of Lauch](https://i.postimg.cc/RFDCS7bB/Theater-Outcomes-vs-Launch.png)
-After referencing [YEAR function]([url](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us)) I used a pivot table Successful campaigns are highest from May - July, while failed and canceled campaigns remain consistent throughout the year. Most theater campaigns will be successful except on December; the rate for failed and successful campaigns is similar on this month. 
+After referencing ([YEAR function](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us)) I used a pivot table Successful campaigns are highest from May - July, while failed and canceled campaigns remain consistent throughout the year. Most theater campaigns will be successful except on December; the rate for failed and successful campaigns is similar on this month. 
 
 
 ### Analysis of Outcomes Based on Goals
