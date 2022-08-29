@@ -19,7 +19,7 @@ After setting the monetery goal amounts to the parameters dictated for the assig
 Then, I created a pivot chart that tracked the sum of each percentage compared to the goal bracket. The chart visualizes that the relationship between the sum of the percentage of successful and failed campaigns are reflections of each other. 
 
 ### Challenges and Difficulties Encountered
-My biggest challenge was in ensuring I had fully reset the original dataset after having manipulating it in different to extract several tables and charts. The amount of columns tracked in the dataset were difficult to review visually as they were not possibly to resize to fit within the window. Careful review had to be enacted to ensure no column remained in a filtered view before proceeding on to next stage of the assignment. 
+My biggest challenge was in ensuring that the original dataset was fully reset after it was manipulated to extract different tables and charts. The amount of columns in the dataset were difficult to track visually as they were not possible to resize so that all fit within the display of my monitor window. Careful and thorough review had to be enacted to ensure no column remained in a filtered view before proceeding on to next stage of the assignment. 
 
 ## Results: 
 
