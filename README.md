@@ -24,14 +24,14 @@ My biggest challenge was in ensuring that the original dataset was fully reset a
 ## Results: 
 
 ### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-There is a spike in successful campaigns from May - July, but failed and canceled campaigns remain consistent throughout the year. Most theater campaigns will be successful except on December; the rate for failed and successful campaigns is similar on this month. 
+There is a spike in successful campaigns from May - July, but failed and canceled campaigns remain consistent throughout the year. Most theater campaigns will be successful except in December; the rate for failed and successful campaigns is similar on this month. 
 
 ### What can you conclude about the Outcomes based on Goals?
 Overall, the chart shows that successful campaigns are more likely to have smaller monetary goals while failed campaigns tend to have larger monetary goals. 
 
 ### What are some limitations of this dataset?
-While the average donation is provided, the median is not. This leaves us with no context to determine the skew of each campaign for individual donations. The dataset also does not provide the budget or other related details that each campaign had for publicity. Publicity strategies for campaigns are also a significant factor that help determine success. 
+While the average donation is provided, the median is not. This leaves us with no context to determine the skew of each campaign for individual donations. The dataset also does not provide the budget or other related details that each campaign had for publicity. Publicity strategies for campaigns are also a significant factor that helps determine success. 
 
 ### What are some other possible tables and/or graphs that we could create?
-I would create an additional column that calculated the total time the campaign was run by using the difference of the 'Date Created Conversion' and 'Date Ended Conversion' columns. I would then create a chart to see what impact campaign length had on successes, failures, and cancelations. I would also create a chart that determines if there is a correlation between average donation, total count of backers, and location. 
+I would create an additional column that calculated the total time the campaign was run by using the difference between the 'Date Created Conversion' and 'Date Ended Conversion' columns. I would then create a chart to see what impact campaign length had on successes, failures, and cancelations. I would also create a chart that determines if there is a correlation between average donations, the total count of backers, and the location. 
 
