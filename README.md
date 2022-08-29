@@ -9,7 +9,7 @@ Explain how you performed your analysis using images and links to code, as well 
 Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered 
 
 ### Analysis of Outcomes Based on Launch Date
-The lines tracking sum of percentage successful and sum of percentage failed resulted in reflections of each other. 
+The lines tracking sum of percentage successful and sum of percentage failed visualize as reflections of each other. 
 
 ### Analysis of Outcomes Based on Goals
 
