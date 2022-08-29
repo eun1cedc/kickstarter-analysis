@@ -2,11 +2,9 @@
 
 ## Overview of Project
 
-This project serves as an analysis of Kickstarter data to uncover trends that will help the client, Louise, determine the parameters of a successful crowdfunding campaign for her play, *Fever*. The data spans from 2009 - 2017, features different categories of campaigns, and has international coverage of countries with different socioeconomic and geopolitical backgrounds. The projected budget for *Fever* is $10,000.
+This project serves as an analysis of Kickstarter data to uncover trends that will help the client, Louise, determine the parameters of a successful crowdfunding campaign for her play, *Fever*. The data spans from 2009 - 2017, features different campaign categories, and has international coverage of countries with different socioeconomic and geopolitical backgrounds. The projected budget for *Fever* is $10,000.
 
 ## Analysis and Challenges
-Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered. The overview of the analysis is well described with screenshots (2 pt).
-Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered 
 
 ### Analysis of Outcomes Based on Launch Date
 ![Line graph depicting Theater Campaign Outcomes based on Month of Lauch](https://i.postimg.cc/RFDCS7bB/Theater-Outcomes-vs-Launch.png)
@@ -16,7 +14,7 @@ After referencing [Microsoft's YEAR function guide](https://support.microsoft.co
 ### Analysis of Outcomes Based on Goals
 ![Line graph depicting Outcomes Based on Launch Date for Successful, Failed, and Canceled Campaigns](https://i.postimg.cc/G22hn7KK/Outcomes-vs-Goals.png)
 After setting the monetery goal amounts to the parameters dictated for the assignment, I used the [COUNTIFS function](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us) to retrieve the information needed to determine what percentage of the campaigns were successful, failed, or canceled based on their goal. 
-![Table depicting Goal Brackets in rows and Sum of Percentage of Campaigns that were Successful, Failed or Canceled in columns]([https://postimg.cc/9DcBXxBX](https://i.postimg.cc/SxM1r329/Table-for-Outcomes-vs-Goals.png))
+![Table depicting Goal Brackets in rows and Sum of Percentage of Campaigns that were Successful, Failed or Canceled in columns](https://i.postimg.cc/SxM1r329/Table-for-Outcomes-vs-Goals.png)
 Then, I created a pivot chart that tracked the sum of each percentage compared to the goal bracket. The chart visualizes that the relationship between the sum of the percentage of successful and failed campaigns is a reflections of each other. 
 
 ### Challenges and Difficulties Encountered
