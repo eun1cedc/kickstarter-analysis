@@ -8,7 +8,7 @@ This project serves as an analysis of Kickstarter data to uncover trends that wi
 
 ### Analysis of Outcomes Based on Launch Date
 ![Line graph depicting Theater Campaign Outcomes based on Month of Lauch](https://i.postimg.cc/RFDCS7bB/Theater-Outcomes-vs-Launch.png)
-After referencing [Microsoft's YEAR function guide](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us), I created a pivot table to filter for the performance and count of campaigns across months. I experienced mild difficulty here as it isn't readily intuitive to determine the configuration so that the column for 'Successful' campaigns was sorted first. After creating a line chart from the table, it was possible to determine that successful campaigns are highest from May - July. On the other hand, failed and canceled campaigns remained consistent throughout the year as neither line demonstrated outliers from the established range. 
+After adding a column to extract the [YEAR function](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us) from the 'Date Created Conversion' column, I created a pivot table to filter for the performance and count of campaigns across months. I experienced mild difficulty here as it isn't readily intuitive to determine the configuration so that the column for 'Successful' campaigns was sorted first. After creating a line chart from the table, it was possible to determine that successful campaigns are highest from May - July. On the other hand, failed and canceled campaigns remained consistent throughout the year as neither line demonstrated outliers from the established range. 
 
 
 ### Analysis of Outcomes Based on Goals
