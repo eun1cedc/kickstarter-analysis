@@ -16,7 +16,7 @@ After adding a column to extract the [YEAR function](https://support.microsoft.c
 After setting the monetery goal amounts to the parameters dictated for the assignment, I used the [COUNTIFS function](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us) to retrieve the information needed to determine what percentage of the campaigns were successful, failed, or canceled based on their goal. 
 ![Table depicting Goal Brackets in rows and Sum of Percentage of Campaigns that were Successful, Failed or Canceled in columns](https://i.postimg.cc/SxM1r329/Table-for-Outcomes-vs-Goals.png)
 
-Then, I created a pivot chart that tracked the sum of each percentage compared to the goal bracket. The chart visualizes that the relationship between the sum of the percentage of successful and failed campaigns is a reflections of each other. 
+Then, I created a pivot chart that tracked the sum of each percentage compared to the goal bracket. The chart visualizes that the relationship between the sum of the percentage of successful and failed campaigns are reflections of each other. 
 
 ### Challenges and Difficulties Encountered
 My biggest challenge was in ensuring I had fully reset the original dataset after having manipulating it in different to extract several tables and charts. The amount of columns tracked in the dataset were difficult to review visually as they were not possibly to resize to fit within the window. Careful review had to be enacted to ensure no column remained in a filtered view before proceeding on to next stage of the assignment. 
