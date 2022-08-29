@@ -9,18 +9,21 @@ Explain how you performed your analysis using images and links to code, as well 
 Challenges or difficulties that were encountered, and how they were overcome, are well explained. If there were no difficulties, describe any possible challenges or difficulties that could be encountered 
 
 ### Analysis of Outcomes Based on Launch Date
-![thisisanimage](https://i.postimg.cc/G22hn7KK/Outcomes-vs-Goals.png)
-The lines tracking sum of percentage successful and sum of percentage failed visualize as reflections of each other. 
+![Line graph depicting Theater Campaign Outcomes based on Month of Lauch](https://i.postimg.cc/RFDCS7bB/Theater-Outcomes-vs-Launch.png)
+After referencing [YEAR function]([url](https://support.microsoft.com/en-us/office/year-function-c64f017a-1354-490d-981f-578e8ec8d3b9?ui=en-us&rs=en-us&ad=us)) I used a pivot table Successful campaigns are highest from May - July, while failed and canceled campaigns remain consistent throughout the year. Most theater campaigns will be successful except on December; the rate for failed and successful campaigns is similar on this month. 
+
 
 ### Analysis of Outcomes Based on Goals
+![Line graph depicting Outcomes Based on Launch Date for Successful, Failed, and Canceled Campaigns](https://i.postimg.cc/G22hn7KK/Outcomes-vs-Goals.png)
+The lines tracking sum of percentage successful and sum of percentage failed visualize as reflections of each other. 
 
 ### Challenges and Difficulties Encountered
-My biggest challenge was in ensuring I had fully reset the original dataset of manipulating it several times to extract different tables and charts. 
+My biggest challenge was in ensuring I had fully reset the original dataset of manipulating it several times to extract different tables and charts. The amount of columns tracked in the dataset were difficult to review visually as they were not possibly to resize to fit within the window. Careful review had to be enacted to ensure no column remained in a filtered view before proceeding on to next stage of the assignment. 
 
 ## Results: 
 
 ### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-There is a spike in successful campaigns from May - July, but failed and canceled campaigns remain consistent throughout the year. 
+There is a spike in successful campaigns from May - July, but failed and canceled campaigns remain consistent throughout the year. Most theater campaigns will be successful except on December; the rate for failed and successful campaigns is similar on this month. 
 
 ### What can you conclude about the Outcomes based on Goals?
 Overall, the chart shows that successful campaigns are more likely to have smaller monetary goals while failed campaigns tend to have larger monetary goals. 
